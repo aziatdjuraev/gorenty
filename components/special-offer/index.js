@@ -1,0 +1,1 @@
+export {default as SpecialOfferPage} from './special-offer-pge/special-offer'

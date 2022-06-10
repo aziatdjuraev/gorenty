@@ -1,0 +1,1 @@
+export { default as AboutUs } from './about-us-page/about-us-page'

@@ -1,0 +1,8 @@
+// next-i18next.config.js
+  module.exports = {
+    i18n: {
+      defaultLocale: "ru",
+      locales: ["ru","en","tr"]
+    },
+    react: { useSuspense: false },//this line
+  }
